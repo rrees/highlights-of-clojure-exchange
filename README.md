@@ -6,3 +6,4 @@ Kris Jenkins gave the talk [A walking tour of Clojure's history](https://skillsm
 
 One of the key things that makes Clojure special is its use of efficient immutable structures, these have been implemented in other languages since. Philip Potter's talk [The Persistent Data Structure Menegerie](https://skillsmatter.com/skillscasts/3743-the-persistent-data-structure-menagerie) goes through the data structures in Clojure and how they use structure sharing to be efficient.
 
+Clojure's support of multi-core concurrency is also a key feature of the language, Tommy Hall's talk [You came for the concurrency right?](https://skillsmatter.com/skillscasts/4935-you-came-for-the-concurrency-right) provides an introduction to the ways that Clojure leverages functions and immutable data to deliver concurrency but also uses it as a platform to discuss the nature of concurrency and parallelism in general.
